@@ -2,7 +2,7 @@
   "name": "lottie-editor",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zimai233.github.io/loottie--main",
+  "homepage": "https://zimai233.github.io/loottie-/",
   "dependencies": {
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.2.0",
